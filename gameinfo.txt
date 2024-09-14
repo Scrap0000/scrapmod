@@ -4,7 +4,7 @@
 gameinfo
 {
 	game	"Scraps mod"
-	title	"Scraps mod"
+	title	"Scraps Mod"
 	type	"singleplayer_only"
 	supportsvr	"1"
 	filesystem
@@ -39,4 +39,5 @@ gameinfo
 	developer_url	""
 	manual	""
 	icon	"resource/icon"
+	title2	""
 }
